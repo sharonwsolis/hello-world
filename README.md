@@ -1,2 +1,6 @@
 # hello-world
-Just another repository, github intro for sharon
+
+Hi Humans!
+
+Sharon here, I like coffee and watermelon.
+I don't like them together though!
